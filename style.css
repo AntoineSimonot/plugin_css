@@ -3,6 +3,7 @@
         background-color: rgb(66, 56, 56);
     }
 
+<<<<<<< Updated upstream
     .layout__row.layout__content.layout__row--gutter{
         background-color: rgb(138, 138, 146);
     }
@@ -71,3 +72,21 @@
         color: #cc3000 !important;
     }
 }
+=======
+.jv-header-top {
+    background-color: #999999 !important;
+}
+
+.jv-nav-lvl2 {
+    background-color: #999999 !important;
+}
+
+/* white -> #A5A5B1
+black -> white
+#E0E0E0 -> #423838
+#F2F2F2 -> #8A8A92
+#FDC7F2-> 
+#999999->
+#0160EE-> #285496 */
+
+>>>>>>> Stashed changes
