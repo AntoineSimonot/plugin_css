@@ -163,3 +163,95 @@ black -> white
     .container-row-video{
         background-color: rgb(165, 165, 177) !important;
     }
+
+    .gameHeaderSubNav {
+        background-color: #A5A5B1 !important;
+    }
+
+    .jv-nav-open-hamburger {
+        background-color: #A5A5B1 !important;
+    }
+
+    .jv-nav-open {
+        background-color: rgb(165, 165, 177) !important;
+    }
+
+    .titre-bloc {
+        color: black !important;
+    }
+
+
+    .gameHeaderBanner {
+        background-color: grey !important;
+    }
+
+    .layout--withBackground {
+        background-color: grey !important;
+    }
+
+    .forum-main-col {
+        background-color: black !important ;
+    }
+
+    .topic-list li.dfp__atf {
+        background-color: grey !important;
+    }
+
+    .topic-list {
+        background-color: black !important;
+    }
+
+    .topic-list li:nth-of-type(odd) {
+        background-color: black !important;
+    }
+
+    .topic-list li:nth-of-type(even) {
+        background: rgb(165, 165, 177) !important;
+    }
+
+    .topic-author {
+        color: white !important;
+    }
+
+    .topic-count {
+        color: white !important;
+    }
+
+    .layout--withBackground .layout__contextBottom, 
+    .layout--withBackground .layout__contentAfter, 
+    .layout--withBackground .layout__content, 
+    .layout--withBackground .layout__contentAside, 
+    .layout--withBackground .layout__contentMain, 
+    .layout--withBackground .layout__contentMainMediaContainer, 
+    .layout--withBackground .layout__contentMainMedia, 
+    .layout--withBackground .layout__contentBefore, 
+    .layout--withBackground .layout__contentHeader, 
+    .layout--withBackground .layout__breadcrumb, 
+    .layout--withBackground .layout__contentTop {
+        background-color: grey !important;
+    }
+
+    .bloc-fil-ariane-crumb .fil-ariane-crumb a, 
+    .bloc-fil-ariane-crumb-forum .fil-ariane-crumb a {
+        color: white !important;
+    }
+
+    .bloc-fil-ariane-crumb .fil-ariane-crumb h1, 
+    .bloc-fil-ariane-crumb .fil-ariane-crumb .h1, 
+    .bloc-fil-ariane-crumb-forum .fil-ariane-crumb h1, 
+    .bloc-fil-ariane-crumb-forum .fil-ariane-crumb .h1 {
+        color: white !important;
+        background: none !important;
+    }
+
+    .form-control {
+        background-color: rgb(199, 198, 198) !important;
+    }
+
+    textarea {
+        background-color: rgb(199, 198, 198) !important;
+    }
+
+    .jv-editor-toolbar {
+        background-color: rgb(199, 198, 198) !important ;
+    }
