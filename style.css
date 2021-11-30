@@ -49,6 +49,25 @@
 
     .bloc-actu-home span.type-actu{
         color: rgb(214, 205, 205) !important;
+    }
 
+    .bloc-actu-home .menu-actu-home .filtre .actif:before {
+        background-color: #285496 !important;
+    }
+
+    .titre-bloc {
+        color: white !important;
+    }
+
+    .sideWootbox{
+        background-color: #A5A5B1 !important;
+    }
+
+    .sideWootbox *{
+        color: white !important;
+    }
+
+    .bloc-chev-pix:before{
+        color: #cc3000 !important;
     }
 }
