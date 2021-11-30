@@ -182,6 +182,7 @@
         background-color: rgb(165, 165, 177) !important;
     }
 
+
     .gameHeaderSubNav {
         background-color: #A5A5B1 !important;
     }
@@ -346,4 +347,47 @@
 
 }
 
+
+.sideModule__title, .pagination__page, .video-footer-title, .sideLatestPublications__itemLink{
+    color: white !important;
+}
+
+
+.sideLatestPublications__itemCard, .sideLatestPublications__itemInfo, .sideLatestPublications__body, .video-footer, .video-footer-description {
+    background-color: #A5A5B1 !important;
+}
+
+
+.cardList__card, .cardList__article, .sideLatestPublications__itemDate, .sideModule__footer{
+ background-color: #A5A5B1 !important;
+}
+
+.layout {
+    background-color: #8A8A92 !important;
+}
+
+.breadcrumb__item, .cardListHeader__count {
+    color: white !important;
+}
+
+.cardList__description, .cardList__titleLink, .sideOrderedGames__gameTitle {
+    color: white !important;
+}
+
+.sideOrderedGames__gameContainer, .pagination__page, .pagination__previousNext {
+background-color: #A5A5B1 !important;
+}
+
+.sideModule  { 
+    background-color: #8A8A91 !important;
+}
+
+.cardList__card {
+    border: 3px solid #696969;
+
+}
+
+.cardList__product, .cardList__date, .cardList__brand, .sideLatestPublications__itemDate, .cardListHeader__countContainer {
+    color: #383838 !important;
+}
 
