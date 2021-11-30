@@ -1,9 +1,39 @@
+
+#jv-footer {
+    background-color: #423838 !important ;
+}
+.headline {
+    color: white !important;
+} 
+.social-networks {
+    border-right: 0.0625rem solid black !important;
+}
+.highlight {
+    background-color: #A5A5B1 !important;
+}
+
+.content-title{
+    color: white !important;
+}
+
+#jv-footer .highlight a{
+    color: white !important;
+}
+
+
 @media (prefers-color-scheme: dark) {
+      .jv-header-top {
+        background-color: #999999 !important;
+    }
+
+    .jv-nav-lvl2 {
+        background-color: #999999 !important;
+    }
+  
     #jv-page{
         background-color: rgb(66, 56, 56);
     }
 
-<<<<<<< Updated upstream
     .layout__row.layout__content.layout__row--gutter{
         background-color: rgb(138, 138, 146);
     }
@@ -72,7 +102,7 @@
         color: #cc3000 !important;
     }
 }
-=======
+
 .jv-header-top {
     background-color: #999999 !important;
 }
@@ -89,4 +119,47 @@ black -> white
 #999999->
 #0160EE-> #285496 */
 
->>>>>>> Stashed changes
+    .foot-accr-item-large h3{
+        color: white !important;
+    }
+
+    .foot-accr-item-large div *{
+        color: white !important;
+    }
+
+    .accr-item-large .a-titre-item{
+        color: white !important;
+    }
+    .accr-item-large .foot-accr-item-large .line-infos, .nb-comm-pict{
+        color: whitesmoke !important;
+    }
+    .accr-item-large .mtag{
+        background-color: #285496 !important;
+    }
+
+    .hptv-text *:hover{
+        color: #cc3000 !important;
+    }
+
+    .item-small-pres{
+        background-color: #A5A5B1 !important;
+    }
+
+    .item-small-pres .a-titre-item{
+        color: white !important;
+    }
+    .item-small-pres .a-titre-item .content-type{
+        color: #285496 !important;
+    }
+
+    .item-small-pres .machine, .item-small-pres .line-infos{
+        color: whitesmoke !important;
+    }
+
+    .bloc-chev-pix span, .bloc-chev-pix:hover:before, .bloc-chev-pix:hover span, .bloc-chev-pix:focus:before, .bloc-chev-pix:focus span{
+        color: #cc3000 !important;
+    }
+
+    .container-row-video{
+        background-color: rgb(165, 165, 177) !important;
+    }
