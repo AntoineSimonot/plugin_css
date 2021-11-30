@@ -1,4 +1,17 @@
 
 .jv-header-top {
-    background-color: gray !important;
+    background-color: #999999 !important;
 }
+
+.jv-nav-lvl2 {
+    background-color: #999999 !important;
+}
+
+/* white -> #A5A5B1
+black -> white
+#E0E0E0 -> #423838
+#F2F2F2 -> #8A8A92
+#FDC7F2-> 
+#999999->
+#0160EE-> #285496 */
+
