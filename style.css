@@ -103,3 +103,50 @@
     }
 }
 
+
+    .foot-accr-item-large h3{
+        color: white !important;
+    }
+
+    .foot-accr-item-large div *{
+        color: white !important;
+    }
+
+    .accr-item-large .a-titre-item{
+        color: white !important;
+    }
+    .accr-item-large .foot-accr-item-large .line-infos, .nb-comm-pict{
+        color: whitesmoke !important;
+    }
+    .accr-item-large .mtag{
+        background-color: #285496 !important;
+    }
+
+    .hptv-text *:hover{
+        color: #cc3000 !important;
+    }
+
+    .item-small-pres{
+        background-color: #A5A5B1 !important;
+    }
+
+    .item-small-pres .a-titre-item{
+        color: white !important;
+    }
+    .item-small-pres .a-titre-item .content-type{
+        color: #285496 !important;
+    }
+
+    .item-small-pres .machine, .item-small-pres .line-infos{
+        color: whitesmoke !important;
+    }
+
+    .bloc-chev-pix span, .bloc-chev-pix:hover:before, .bloc-chev-pix:hover span, .bloc-chev-pix:focus:before, .bloc-chev-pix:focus span{
+        color: #cc3000 !important;
+    }
+
+    .container-row-video{
+        background-color: rgb(165, 165, 177) !important;
+    }
+}
+
