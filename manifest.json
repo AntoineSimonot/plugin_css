@@ -1,14 +1,19 @@
 {
   "manifest_version": 2,
- 
   "name": "plugin_css",
   "version": "0.2.0",
   "description": "plugin_description",
- 
-  "content_scripts": [{
-    "css": ["style.css"],
-    "js": ["script.js"],
-    "matches": ["https://www.jeuxvideo.com//*"]
-  }]
- 
+  "content_scripts": [
+    {
+      "css": [
+        "style.css"
+      ],
+      "js": [
+        "script.js"
+      ],
+      "matches": [
+        "https://www.jeuxvideo.com/*"
+      ]
+    }
+  ]
 }
