@@ -22,6 +22,14 @@
 
 
 @media (prefers-color-scheme: dark) {
+      .jv-header-top {
+        background-color: #999999 !important;
+    }
+
+    .jv-nav-lvl2 {
+        background-color: #999999 !important;
+    }
+  
     #jv-page{
         background-color: rgb(66, 56, 56);
     }
