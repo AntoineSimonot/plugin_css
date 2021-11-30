@@ -1,3 +1,26 @@
+
+#jv-footer {
+    background-color: #423838 !important ;
+}
+.headline {
+    color: white !important;
+} 
+.social-networks {
+    border-right: 0.0625rem solid black !important;
+}
+.highlight {
+    background-color: #A5A5B1 !important;
+}
+
+.content-title{
+    color: white !important;
+}
+
+#jv-footer .highlight a{
+    color: white !important;
+}
+
+
 @media (prefers-color-scheme: dark) {
     #jv-page{
         background-color: rgb(66, 56, 56);
@@ -71,3 +94,4 @@
         color: #cc3000 !important;
     }
 }
+
