@@ -117,6 +117,14 @@
         color: #cc3000 !important;
     }
 
+    .jv-header-top {
+        background-color: #999999 !important;
+    }
+
+    .jv-nav-lvl2 {
+        background-color: #999999 !important;
+    }
+
     .foot-accr-item-large h3{
         color: white !important;
     }
@@ -246,4 +254,5 @@
     }
 
 }
+
 
