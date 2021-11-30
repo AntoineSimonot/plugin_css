@@ -21,7 +21,77 @@
 }
 
 
-#jv-footer {
-    background-color: #423838 !important ;
-}  
+@media (prefers-color-scheme: dark) {
+    #jv-page{
+        background-color: rgb(66, 56, 56);
+    }
+
+    .layout__row.layout__content.layout__row--gutter{
+        background-color: rgb(138, 138, 146);
+    }
+
+    .quick-access-bar{
+        background-color: rgb(165, 165, 177) !important; 
+    }
+
+    .quick-access-bar *{
+        background-color: rgb(165, 165, 177);
+        color: white !important;
+    }
+
+    .item-home-accroche .foot-accroche{
+        background-color: rgb(165, 165, 177) !important;
+    }
+
+    .item-home-accroche .foot-accroche *{
+        color: white !important;
+    }
+
+    .layout__row.layout__contentTop{
+        background-color: rgb(138, 138, 146) !important;
+    }
+
+    .container-welcome-home{
+        background-color: rgb(165, 165, 177) !important;
+    }
+
+    .container-welcome-home *{
+        color: white;
+    }
+
+    .container-welcome-home h1, .container-welcome-home .lien-jv{
+        color: rgb(240, 227, 227) !important;
+    }
+    
+    .item-home-accroche .mtag{
+        background-color: #285496 !important;
+    }
+    .bloc-actu-home span.date-actu, .bloc-actu-home span{
+        color: white !important;
+    }
+
+    .bloc-actu-home span.type-actu{
+        color: rgb(214, 205, 205) !important;
+    }
+
+    .bloc-actu-home .menu-actu-home .filtre .actif:before {
+        background-color: #285496 !important;
+    }
+
+    .titre-bloc {
+        color: white !important;
+    }
+
+    .sideWootbox{
+        background-color: #A5A5B1 !important;
+    }
+
+    .sideWootbox *{
+        color: white !important;
+    }
+
+    .bloc-chev-pix:before{
+        color: #cc3000 !important;
+    }
+}
 
