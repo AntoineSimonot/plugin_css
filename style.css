@@ -391,9 +391,30 @@ background-color: #A5A5B1 !important;
     background-color: #8A8A91 !important;
 }
 
-.dark-mode .cardList__card, .dark-mode  .gameInfos__24ea1Q {
-    border: 3px solid #696969;
+.gameInfos__24ea1Q {
+    border: 3px solid #696969 !important;
+    background-color: #8A8A91 !important;
+}
 
+.hubItem__2vsQLM {
+    border: 1px solid #696969 !important;
+    background-color: #b6b6bd !important;
+}
+
+.description__1-Pqha {
+    color: black !important;
+}
+
+.gameCharacteristicsMain__block {
+    background-color: #b6b6bd !important;
+}
+
+.latestVideos__container {
+    background-color: #b6b6bd !important;
+}
+
+.latestVideos {
+    background-color: #b6b6bd !important;
 }
 
 .dark-mode .cardList__product, .cardList__date,.dark-mode  .cardList__brand, .dark-mode .sideLatestPublications__itemDate, .dark-mode  .cardListHeader__countContainer {
@@ -428,13 +449,10 @@ background-color: #A5A5B1 !important;
 
 .dark-mode .background__pyHYFv {
     background-color: #423838 !important;
-
-    
 }
 
 
-.dark-mode .container-row-inverse+.container-row-inverse,.dark-mode  .container-row-inverse+.container-row-gray, .dark-mode .container-row-inverse+.container-row-lists,.dark-mode  .container-row-inverse+.container-row-video, .dark-mode .container-row-gray+.container-row-inverse, .dark-mode .container-row-gray+.container-row-gray, .dark-mode .container-row-gray+.container-row-lists, .dark-mode .container-row-gray+.container-row-video, .dark-mode .container-row-lists+.container-row-inverse, .dark-mode  .container-row-lists+.container-row-gray, .dark-mode .container-row-lists+.container-row-lists, .dark-mode .container-row-lists+.container-row-video,.dark-mode .container-row-video+.container-row-inverse, .dark-mode .container-row-video+.container-row-gray, .dark-mode .container-row-video+.container-row-lists,.dark-mode  .container-row-video+.container-row-video {
-
+.container-row-inverse+.container-row-inverse,.dark-mode  .container-row-inverse+.container-row-gray, .dark-mode .container-row-inverse+.container-row-lists,.dark-mode  .container-row-inverse+.container-row-video, .dark-mode .container-row-gray+.container-row-inverse, .dark-mode .container-row-gray+.container-row-gray, .dark-mode .container-row-gray+.container-row-lists, .dark-mode .container-row-gray+.container-row-video, .dark-mode .container-row-lists+.container-row-inverse, .dark-mode  .container-row-lists+.container-row-gray, .dark-mode .container-row-lists+.container-row-lists, .dark-mode .container-row-lists+.container-row-video,.dark-mode .container-row-video+.container-row-inverse, .dark-mode .container-row-video+.container-row-gray, .dark-mode .container-row-video+.container-row-lists,.dark-mode  .container-row-video+.container-row-video {
     margin-top: -1.25rem;
 }
 
@@ -446,49 +464,51 @@ background-color: #A5A5B1 !important;
     background-color: #c7c7d3 !important ;
 }
 
-.dark-mode .containerMenu__3ouCRR {
+.containerMenu__3ouCRR {
     background-color: grey !important;
 }
 
-.dark-mode .headerLayout__1azKs1 {
+.headerLayout__1azKs1 {
     background-color: grey !important;
 }
 
-.dark-mode .contextTop__N50mkC {
+.contextTop__N50mkC {
     background-color: #c7c7d3 !important ;
     border: solid 1px rgb(88, 88, 88) !important;
 }
-
-.dark-mode .layout__1U84Fi {
+.layout__1U84Fi {
     background-color: grey !important;
 }
 
-.dark-mode .contentMain__2GCSg5 {
+.contentMain__2GCSg5 {
     background-color: #c7c7d3 !important;
 }
 
-.dark-mode .contentAside__pQDy8Q {
+.contentAside__pQDy8Q {
     background-color: #c7c7d3 !important;
 }
 
-.dark-mode .icon__3ka02C {
+.icon__3ka02C {
     background-color: grey !important;
 }
 
-.dark-mode .title__RXpcVg {
+.title__RXpcVg {
     background-color: grey !important;
 }
 
-.dark-mode .container__24THqN {
+.container__24THqN {
     background-color: grey !important;
 }
 
-.dark-mode .gameContainer__3v6JyP {
+.gameContainer__3v6JyP {
     background-color: grey !important;
 }
-
-.dark-mode .gameReleaseDate__1k1cNK {
+.gameReleaseDate__1k1cNK {
     color: black !important; 
+}
+
+.container__3Ow3zD {
+    background-color: grey !important;
 }
 
 .dark-mode .button__2UFQOb {
