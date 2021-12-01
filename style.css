@@ -510,33 +510,33 @@ background-color: #A5A5B1 !important;
 
 }
 
-#hp-bloc-accueil {
+.dark-mode #hp-bloc-accueil {
     background-color: grey !important;
 }
 
-.highlight {
+.dark-mode .highlight {
     color: black !important;
     background-color: grey !important;
 }
 
-#hp-bloc-accueil-breadcrumb .fil-ariane-crumb a {
+.dark-mode #hp-bloc-accueil-breadcrumb .fil-ariane-crumb a {
     color: black !important;
 }
 
-#hp-bloc-accueil-desc  {
+.dark-mode #hp-bloc-accueil-desc  {
     color: white !important ;
 }
 
-.container__3zUztO {
+.dark-mode .container__3zUztO {
     background-color: #c7c7d3 !important;
 }
 
-.hubItem__2vsQLM {
+.dark-mode .hubItem__2vsQLM {
     background-color: grey !important;
     border: solid 1px rgb(88, 88, 88) !important;
 }
 
-.metadataTitle__1OrRKy, .metadataDescription__1eIQ2A, .title__nqVxdb {
+.dark-mode .metadataTitle__1OrRKy, .metadataDescription__1eIQ2A, .title__nqVxdb {
     color: grey !important;
 }
 .dark-mode .bloc-fofo-boutique .bloc-top-fofo li, .dark-mode .bloc-fofo-boutique .bloc-top-fofo li a, .dark-mode .bloc-fofo-boutique .list-autre-fofo a, .dark-mode .bloc-fofo-boutique .list-autre-fofo{
