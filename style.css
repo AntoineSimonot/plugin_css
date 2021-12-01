@@ -562,6 +562,18 @@ background-color: #A5A5B1 !important;
     display: none;
 }
 
+.dark-mode .fs-body {
+    background-color: #c7c7d3 !important;
+}
 
+.dark-mode .card-body {
+    background-color: #c7c7d3 !important;
+}
 
+.dark-mode .video-footer-info .video-footer-title {
+    color: black !important;
+}
 
+.dark-mode .video-footer-info .video-footer-description {
+    color: black !important;
+}
