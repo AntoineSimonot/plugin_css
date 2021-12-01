@@ -429,9 +429,12 @@ background-color: #A5A5B1 !important;
 .dark-mode .background__pyHYFv {
     background-color: #423838 !important;
 
+    
 }
 
+
 .dark-mode .container-row-inverse+.container-row-inverse,.dark-mode  .container-row-inverse+.container-row-gray, .dark-mode .container-row-inverse+.container-row-lists,.dark-mode  .container-row-inverse+.container-row-video, .dark-mode .container-row-gray+.container-row-inverse, .dark-mode .container-row-gray+.container-row-gray, .dark-mode .container-row-gray+.container-row-lists, .dark-mode .container-row-gray+.container-row-video, .dark-mode .container-row-lists+.container-row-inverse, .dark-mode  .container-row-lists+.container-row-gray, .dark-mode .container-row-lists+.container-row-lists, .dark-mode .container-row-lists+.container-row-video,.dark-mode .container-row-video+.container-row-inverse, .dark-mode .container-row-video+.container-row-gray, .dark-mode .container-row-video+.container-row-lists,.dark-mode  .container-row-video+.container-row-video {
+
     margin-top: -1.25rem;
 }
 
