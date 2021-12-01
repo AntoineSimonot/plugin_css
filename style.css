@@ -347,7 +347,6 @@
 
 }
 
-
 .sideModule__title, .pagination__page, .video-footer-title, .sideLatestPublications__itemLink{
     color: white !important;
 }
@@ -391,3 +390,80 @@ background-color: #A5A5B1 !important;
     color: #383838 !important;
 }
 
+.container-row-inverse+.container-row-inverse, .container-row-inverse+.container-row-gray, .container-row-inverse+.container-row-lists, .container-row-inverse+.container-row-video, .container-row-gray+.container-row-inverse, .container-row-gray+.container-row-gray, .container-row-gray+.container-row-lists, .container-row-gray+.container-row-video, .container-row-lists+.container-row-inverse, .container-row-lists+.container-row-gray, .container-row-lists+.container-row-lists, .container-row-lists+.container-row-video, .container-row-video+.container-row-inverse, .container-row-video+.container-row-gray, .container-row-video+.container-row-lists, .container-row-video+.container-row-video {
+    margin-top: -1.25rem;
+}
+
+.bloc-onfire.container-row-lists {
+    background-color: grey !important;
+}
+
+.sideGameAffiliate__affiliateBlock .gameAffiliate__container {
+    background-color: #c7c7d3 !important ;
+}
+
+.containerMenu__3ouCRR {
+    background-color: grey !important;
+}
+
+.headerLayout__1azKs1 {
+    background-color: grey !important;
+}
+
+.contextTop__N50mkC {
+    background-color: #c7c7d3 !important ;
+    border: solid 1px rgb(88, 88, 88) !important;
+}
+
+.layout__1U84Fi {
+    background-color: grey !important;
+}
+
+.contentMain__2GCSg5 {
+    background-color: #c7c7d3 !important;
+}
+
+.contentAside__pQDy8Q {
+    background-color: #c7c7d3 !important;
+}
+
+.icon__3ka02C {
+    background-color: grey !important;
+}
+
+.title__RXpcVg {
+    background-color: grey !important;
+}
+
+.container__24THqN {
+    background-color: grey !important;
+}
+
+.gameContainer__3v6JyP {
+    background-color: grey !important;
+}
+
+.gameReleaseDate__1k1cNK {
+    color: black !important; 
+}
+
+.button__2UFQOb {
+    background-color: grey !important;
+}
+
+.allTopGamesButton__3OH1Om {
+    background-color: grey !important;
+}
+
+.promotionalFooterLayout__37Nq2m {
+    background-color: #c7c7d3 !important;
+}
+
+.background__pyHYFv {
+    background-color: #c7c7d3 !important;
+    border-top: solid 1px rgb(88, 88, 88) !important;
+}
+
+.container {
+    background-color: #c7c7d3 !important;
+}
