@@ -405,17 +405,38 @@ background-color: #A5A5B1 !important;
     color: black !important;
 }
 
-.gameCharacteristicsMain__block {
+.dark-mode .gameCharacteristicsMain__block {
     background-color: #b6b6bd !important;
 }
 
-.latestVideos__container {
+.dark-mode .latestVideos__container {
     background-color: #b6b6bd !important;
 }
 
-.latestVideos {
+.dark-mode .latestVideos {
     background-color: #b6b6bd !important;
 }
+
+.dark-mode .latestNews {
+    background-color: #b6b6bd !important;
+}
+
+.dark-mode .userOpinions__mostUsefulContainer{
+    background-color: #b6b6bd !important;
+}
+
+.dark-mode .userOpinions {
+    background-color: #b6b6bd !important;
+}
+
+.dark-mode .latestImages {
+    background-color: #b6b6bd !important;
+}
+
+.dark-mode .gameCharacteristicsDetailed {
+    background-color: #b6b6bd !important;
+}
+
 
 .dark-mode .cardList__product, .cardList__date,.dark-mode  .cardList__brand, .dark-mode .sideLatestPublications__itemDate, .dark-mode  .cardListHeader__countContainer {
     color: #383838 !important;
@@ -615,4 +636,24 @@ background-color: #A5A5B1 !important;
 
 #search {
     color: white !important;
+}
+
+.dark-mode .sideTips__body {
+    background-color: #c7c7d3 !important;
+}
+
+.dark-mode .sidePopularThreads__body {
+    background-color: #c7c7d3 !important;
+}
+
+.dark-mode .gameNewsList__card {
+    background-color: #c7c7d3 !important;
+}
+
+.dark-mode .gameReviewsList__card {
+    background-color: #c7c7d3 !important;
+}
+
+.dark-mode .userOpinionsPerPlatform {
+    background-color: #c7c7d3 !important;
 }
