@@ -420,7 +420,7 @@ background-color: #A5A5B1 !important;
 .background__pyHYFv {
     background-color: #423838 !important;
     
-
+}
 .container-row-inverse+.container-row-inverse, .container-row-inverse+.container-row-gray, .container-row-inverse+.container-row-lists, .container-row-inverse+.container-row-video, .container-row-gray+.container-row-inverse, .container-row-gray+.container-row-gray, .container-row-gray+.container-row-lists, .container-row-gray+.container-row-video, .container-row-lists+.container-row-inverse, .container-row-lists+.container-row-gray, .container-row-lists+.container-row-lists, .container-row-lists+.container-row-video, .container-row-video+.container-row-inverse, .container-row-video+.container-row-gray, .container-row-video+.container-row-lists, .container-row-video+.container-row-video {
     margin-top: -1.25rem;
 }
