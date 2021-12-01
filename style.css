@@ -362,6 +362,7 @@
  background-color: #A5A5B1 !important;
 }
 
+
 .layout {
     background-color: #8A8A92 !important;
 }
@@ -382,7 +383,7 @@ background-color: #A5A5B1 !important;
     background-color: #8A8A91 !important;
 }
 
-.cardList__card {
+.cardList__card, .gameInfos__24ea1Q {
     border: 3px solid #696969;
 
 }
@@ -391,3 +392,32 @@ background-color: #A5A5B1 !important;
     color: #383838 !important;
 }
 
+.contextTop__N50mkC,.headerLayout__1azKs1, .containerMenu__3ouCRR, .items__3tKMxC{
+    background-color: #A5A5B1 !important;
+
+}
+
+.layout__1U84Fi, .contentMain__2GCSg5, .contentAside__pQDy8Q, .container__2EvhhA {
+    background-color: #8A8A92 !important;
+}
+
+.gameInfos__24ea1Q, .promotionalFooterLayout__37Nq2m, .page__3yoZnY, .breadcrumbContainer__33tAQa, .breadcrumb__3qkpds, 
+.container__IGcy8S, .menuLabel__1l_Ok8, .universeSubItemLink__2tYgUY, 
+.backNextDisable__gBWDEX, .backNext__3OaIpv{
+    background-color: #A5A5B1 !important;
+}
+
+
+.gameTitleLink__196nPy, .description__1-Pqha, .title__3Dhaow, .title__23ftyo, 
+.link__LY8tPz, .itemTitle__5U9kkm{
+    color: white !important;
+}
+
+.metadataTitle__1OrRKy, .metadataDescription__1eIQ2A, .title__nqVxdb {
+    color:white !important;
+}
+
+.background__pyHYFv {
+    background-color: #423838 !important;
+    
+}
