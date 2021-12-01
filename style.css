@@ -600,3 +600,19 @@ background-color: #A5A5B1 !important;
 .dark-mode .video-footer-info .video-footer-description {
     color: black !important;
 }
+
+.explication-lc {
+    color: black !important;
+}
+
+.titre-lc {
+    color: black !important;
+}
+
+.jv-header-menu #jv-header-search  {
+    background-color: black !important;
+}
+
+#search {
+    color: white !important;
+}
